@@ -5,11 +5,6 @@ The goal is to derive actionable insights that support data-driven decision-maki
 
 ---
 
-## 📊 Dashboard Preview
-![Dashboard](dashboard.png)
-
----
-
 ## 🔍 Key Insights
 - Analysis of **ridership trends** across daily, weekly, and monthly timelines  
 - **Revenue performance** evaluation by metro line and route  
